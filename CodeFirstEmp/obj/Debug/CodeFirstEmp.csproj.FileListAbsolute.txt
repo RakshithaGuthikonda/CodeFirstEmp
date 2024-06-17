@@ -1,0 +1,12 @@
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\CodeFirstEmp.exe.config
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\CodeFirstEmp.exe
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\CodeFirstEmp.pdb
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\EntityFramework.dll
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\EntityFramework.xml
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\obj\Debug\CodeFirstEmp.csproj.AssemblyReference.cache
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\obj\Debug\CodeFirstEmp.csproj.CoreCompileInputs.cache
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\obj\Debug\CodeFirstEmp.csproj.CopyComplete
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\obj\Debug\CodeFirstEmp.exe
+C:\Users\rakshitha.g\OneDrive - TECHWAVE\Dotnet\CodeFirstEmp\CodeFirstEmp\obj\Debug\CodeFirstEmp.pdb
